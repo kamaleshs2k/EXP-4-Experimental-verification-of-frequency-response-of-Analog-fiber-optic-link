@@ -83,4 +83,4 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus the relationship between input and received signal of a 660nm fiber optic cable using analog link is verified successfully
